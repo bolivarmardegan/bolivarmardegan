@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">BM — Bolívar Mardegan — Senior Software Engineer</title>
+<desc id="desc">Dark blue and gold banner for Bolívar Mardegan's engineering GitHub profile.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#061322"/><stop offset=".56" stop-color="#0D2743"/><stop offset="1" stop-color="#071827"/></linearGradient>
+  <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#FFC976"/><stop offset="1" stop-color="#D99534"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#91B9CE" stroke-opacity=".055" fill="none"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<path d="M0 264 C180 214 220 302 400 254 S660 190 790 246 S1030 285 1200 190" fill="none" stroke="#E7A44F" stroke-opacity=".15" stroke-width="2"/>
+<path d="M852 0L1200 0V300H1055Z" fill="#193F60" fill-opacity=".18"/>
+<g transform="translate(76 64)">
+  <rect x="0" y="0" width="176" height="176" rx="28" fill="#081A2C" stroke="#456985" stroke-width="1.5"/>
+  <path d="M25 133C46 160 122 155 153 123" fill="none" stroke="url(#gold)" stroke-width="4" stroke-linecap="round"/>
+  <text x="88" y="109" font-size="85" font-family="Inter,Arial,sans-serif" font-weight="800" letter-spacing="-9" text-anchor="middle" fill="#FFFFFF">BM</text>
+  <path d="M116 31l-10 9 10 9m21-18l10 9-10 9m-13-23l-8 28" fill="none" stroke="#FFC976" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<rect x="286" y="71" width="3" height="158" rx="1.5" fill="url(#gold)"/>
+<text x="320" y="129" fill="#FFFFFF" font-size="46" font-weight="750" font-family="Inter,Arial,sans-serif" letter-spacing="-1.7">Bolívar Mardegan</text>
+<text x="322" y="173" fill="#FFCB7A" font-size="23" font-weight="650" font-family="Inter,Arial,sans-serif" letter-spacing=".4">Senior Software Engineer</text>
+<text x="322" y="210" fill="#C1D4E4" font-size="18" font-family="Inter,Arial,sans-serif">Java · Python · AWS · Distributed Systems · AI Engineering</text>
+<rect x="320" y="230" width="334" height="2" rx="1" fill="url(#gold)" opacity=".75"/>
+</svg>

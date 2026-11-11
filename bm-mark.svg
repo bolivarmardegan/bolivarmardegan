@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="BM mark">
+<rect width="128" height="128" rx="25" fill="#091C30"/>
+<rect x="1" y="1" width="126" height="126" rx="24" fill="none" stroke="#52718A"/>
+<path d="M17 103Q65 129 110 91" fill="none" stroke="#ECAE50" stroke-width="3" stroke-linecap="round"/>
+<text x="62" y="81" font-size="62" font-family="Arial,sans-serif" font-weight="800" letter-spacing="-7" text-anchor="middle" fill="#FFFFFF">BM</text>
+<path d="M80 22l-6 7 6 7m14-14l6 7-6 7" fill="none" stroke="#FFBE62" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
